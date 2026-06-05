@@ -136,12 +136,12 @@ PORT=3002
 
 ### Landing Page
 
-![Landing Page](<img width="1918" height="843" alt="Screenshot 2026-06-05 225259" src="https://github.com/user-attachments/assets/c67cac55-aee6-4b62-843b-06e884dd1fa4" />
+![Landing Page]<img width="1918" height="843" alt="Screenshot 2026-06-05 225259" src="https://github.com/user-attachments/assets/c67cac55-aee6-4b62-843b-06e884dd1fa4" />
 
 
 ### Dashboard
 
-![Dashboard](<img width="1908" height="847" alt="Screenshot 2026-06-05 225230" src="https://github.com/user-attachments/assets/9280d4fe-c086-4905-85d7-313cd7652677" />
+![Dashboard]<img width="1908" height="847" alt="Screenshot 2026-06-05 225230" src="https://github.com/user-attachments/assets/9280d4fe-c086-4905-85d7-313cd7652677" />
 
 
 ---
